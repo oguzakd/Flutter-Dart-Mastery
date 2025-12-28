@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102069612226",
+    "project_id": "login-f1feb",
+    "storage_bucket": "login-f1feb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102069612226:android:ff2c6dbc9c07f44414555b",
+        "android_client_info": {
+          "package_name": "com.example.login_register_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102069612226-72b5sis4sr3h158lhu9pqkkkchddjeq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVYLAAOvQTwtSoh9AoM7txWSmI02g5Wpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102069612226-72b5sis4sr3h158lhu9pqkkkchddjeq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
