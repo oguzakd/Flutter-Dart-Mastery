@@ -1,4 +1,4 @@
-# 🚀 Flutter & Dart Mastery: The Complete Journey
+# 🚀 Flutter & Dart Mastery: The Journey
 
 This repository is a **comprehensive collection of Flutter and Dart projects**, covering everything from fundamental concepts to advanced mobile application development.
 
@@ -102,3 +102,4 @@ To run any project in this repository:
    ```
 
 # 👤 Oğuzhan Akduman
+
